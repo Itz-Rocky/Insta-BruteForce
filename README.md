@@ -1,8 +1,8 @@
 <h1 align="center">
   <br>
-  <a href="https://github.com/vyasanbmathew5/server-down"><img src="https://github.com/vyasanbmathew5/server-down/blob/main/.%20gitignore/server-down.png" alt="server-down"></a>
+  <a href="https://github.com/Itz-Rocky/Insta-BruteForce"><img src="https://iili.io/36BuzNV.png" alt="server-down"></a>
   <br>
-  server-down
+  Instagram BruteForce
   <br>
 </h1>
 
